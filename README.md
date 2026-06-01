@@ -32,9 +32,3 @@ The application is engineered with a focus on performance, type safety, and clea
 
 Ensure you have [Node.js](https://nodejs.org/) (v18+ recommended) and npm/pnpm installed.
 
-### Installation
-
-1. Clone the repository:
-```bash
-   git clone [https://github.com/your-username/bagyo-frontend.git](https://github.com/your-username/bagyo-frontend.git)
-   cd bagyo-frontend
